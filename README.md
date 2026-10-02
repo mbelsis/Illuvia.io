@@ -65,8 +65,9 @@ Illuvia starts with **GRC at the core** and connects every surrounding trust dom
 
 **Make risk decisions that stand up to scrutiny.** Assess, prioritise and treat cyber, operational, vendor and technology risk using ISO 27005 context, NIST SP 800-30 methods and quantitative FAIR analysis. Model inherent and residual exposure, define risk appetite and KRIs, link controls and owners, and turn treatment decisions into accountable remediation. The same risk record can connect to assets, services, threats, findings, evidence and regulatory requirements—giving CISOs and risk owners a defensible view of enterprise risk management.
 
-| **26** | **2,791** | **582** |
+| <img src="assets/icons/frameworks.svg" alt="" width="56" /> | <img src="assets/icons/requirements.svg" alt="" width="56" /> | <img src="assets/icons/baselines.svg" alt="" width="56" /> |
 | :---: | :---: | :---: |
+| **26** | **2,791** | **582** |
 | supported compliance frameworks | mapped compliance requirements | reusable control baselines |
 
 | **Risk assessments** | **Enterprise risk management** | **FAIR quantitative analysis** |
