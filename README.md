@@ -1,221 +1,391 @@
 <p align="center">
   <a href="https://www.illuvia.io/">
-    <img src="https://www.illuvia.io/landing/logo.png" alt="Illuvia" width="360" />
+    <img src="assets/brand/hero-dark.svg" alt="Illuvia — Continuous trust. Calm operations. The AI-augmented digital trust platform." width="100%" />
   </a>
 </p>
 
 <p align="center">
-  <strong>Continuous trust. Calm operations.</strong>
+  <a href="https://www.illuvia.io/"><img alt="Explore illuvia.io" src="https://img.shields.io/badge/Explore%20illuvia.io%20→-3B1C6E?style=for-the-badge" /></a>
+  <a href="#modules"><img alt="13 modules" src="https://img.shields.io/badge/13%20modules-EFEAFB?style=for-the-badge" /></a>
+  <a href="#control-graph"><img alt="Control graph" src="https://img.shields.io/badge/Control%20graph-EFEAFB?style=for-the-badge" /></a>
+  <a href="https://www.illuvia.io/#integrations"><img alt="Integrations" src="https://img.shields.io/badge/Integrations-EFEAFB?style=for-the-badge" /></a>
 </p>
 
 <p align="center">
-  <a href="https://www.illuvia.io/"><strong>Explore illuvia.io →</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://www.illuvia.io/#features">Platform capabilities</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.illuvia.io/#integrations">Integrations</a>
+  <img alt="Frameworks: ISO 27001 · SOC 2 · NIST CSF" src="https://img.shields.io/badge/FRAMEWORKS-ISO%2027001%20·%20SOC%202%20·%20NIST%20CSF-5B3CC4?labelColor=27364B" />
+  <img alt="Deploy: SaaS · Private" src="https://img.shields.io/badge/DEPLOY-SaaS%20·%20Private-17705F?labelColor=27364B" />
+  <img alt="AI: Grace + 4 virtual agents" src="https://img.shields.io/badge/AI-Grace%20+%204%20virtual%20agents-3B1C6E?labelColor=27364B" />
 </p>
+
+<br />
 
 <p align="center">
-  <img alt="Digital Trust Platform" src="https://img.shields.io/badge/DIGITAL%20TRUST-5B3CC4?style=for-the-badge" />
-  <img alt="AI augmented" src="https://img.shields.io/badge/AI--AUGMENTED-1D8A78?style=for-the-badge" />
-  <img alt="Enterprise ready" src="https://img.shields.io/badge/ENTERPRISE--READY-27364B?style=for-the-badge" />
+  <strong>Illuvia unifies governance, risk and compliance with security operations</strong> — so risk signals, controls, cloud findings, evidence, remediation and customer assurance stop living in separate systems.
+</p>
+<p align="center">
+  <strong>Grace</strong>, Illuvia’s AI teammate, analyses context, runs workflows, prepares evidence and surfaces gaps — while people keep the approvals.
 </p>
 
----
+<br />
 
-## Trust should be continuous
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/brand/stats-dark.svg" />
+  <img src="assets/brand/stats-light.svg" alt="26 supported compliance frameworks, 2,791 mapped requirements, 582 reusable control baselines, 600+ cloud security checks across AWS, Azure and GCP" />
+</picture>
 
-**Illuvia is an AI-augmented digital trust platform for modern security, risk, privacy and compliance teams.** It unifies governance, risk and compliance (GRC) with security operations—so risk signals, controls, cloud findings, evidence, remediation and customer assurance no longer live in separate systems.
-
-Where conventional GRC tooling can leave teams manually collecting proof after the fact, Illuvia connects the operational work to the compliance outcome. **Grace**, Illuvia’s AI teammate, helps teams analyse context, create and execute workflows, prepare evidence, surface gaps and keep the right people moving—while people retain control of approvals and decisions.
-
-The result is a trusted environment that is easier to govern, easier to prove and continuously audit-ready. From ISO 27001, SOC 2 and NIST CSF compliance to cloud security posture management, vendor risk management and business continuity, Illuvia gives leaders a connected operating model for digital trust.
-
-> **Built for the way you operate.** Run Illuvia as a secure multi-tenant SaaS platform, or deploy it privately within your organisation’s own environment and intranet. The same digital trust operating model can support a single business, distributed teams, consultants and enterprise programmes.
-
-| One platform | One source of truth | One calmer way to operate |
-| :--- | :--- | :--- |
-| Risk, compliance and security operations work in concert. | Controls, evidence, assets and findings stay connected. | Grace automates the busywork behind repeatable trust. |
+<br />
 
 <p align="center">
-  <img src="assets/screenshots/Dashboards.png" alt="Illuvia dashboard showing training progress, penetration-test vulnerabilities, risks by severity, incident response and compliance gap analysis in one role-aware view" width="900" />
+  <img src="assets/screens/dashboards.webp" alt="Illuvia role-aware dashboard showing training progress, penetration-test vulnerabilities, risks by severity, incident response and compliance gap analysis" width="100%" />
 </p>
+<p align="center"><sub>One role-aware view — training, pen-test findings, risk, incidents and compliance gaps.</sub></p>
 
-<p align="center"><sub>One role-aware dashboard: training, penetration-test findings, risk, incidents and compliance gaps in a single live view.</sub></p>
+<br />
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/brand/deploy-dark.svg" />
+  <img src="assets/brand/deploy-light.svg" alt="Run Illuvia as a secure multi-tenant SaaS platform, or deploy it privately inside your own environment and intranet" />
+</picture>
 
-## One control graph. The full digital trust picture.
+<a id="control-graph"></a>
 
-Illuvia starts with **GRC at the core** and connects every surrounding trust domain to the same control graph. A cloud misconfiguration, an overdue access review or a supplier finding does not stop as an isolated alert: it can be assessed as risk, assigned to an owner, mapped to the affected controls and frameworks, remediated through a workflow, and retained as audit-ready evidence.
+## One control graph. The full trust picture.
 
-| **Risk & compliance** | **Customer assurance** | **Vendor & third-party risk** |
-| :---: | :---: | :---: |
-| **Identity & access** | **◉ GRC<br />CONTROL GRAPH** | **Cloud CSPM** |
-| **Privacy & data** | **Resilience · BCP / DR** | **Security operations** |
+A cloud misconfiguration, an overdue access review or a supplier finding doesn’t stay an isolated alert: it’s **assessed as risk, owned, mapped to controls and frameworks, remediated through a workflow and kept as audit-ready evidence.**
 
-<p align="center"><sub>Every module orbits the same GRC control graph—mapped, owned, evidenced and connected—so one decision improves the whole trust programme.</sub></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/brand/control-graph-dark.svg" />
+  <img src="assets/brand/control-graph-light.svg" alt="Eight trust domains — risk and compliance, customer assurance, cloud CSPM, security operations, resilience, privacy and data, identity and access, vendor and third-party risk — orbiting one GRC control graph" />
+</picture>
 
----
+<a id="modules"></a>
 
 ## The digital trust operating system
 
-### 01 — Risk, controls & compliance
+<table>
+  <tr>
+    <td width="33%" valign="top"><a href="#m01"><code>01</code> <b>Risk, controls &amp; compliance</b></a><br />ISO 27005, NIST 800-30, FAIR</td>
+    <td width="33%" valign="top"><a href="#m02"><code>02</code> <b>Audit, evidence &amp; assurance</b></a><br />Plan, collect once, reuse</td>
+    <td width="33%" valign="top"><a href="#m03"><code>03</code> <b>Asset, service &amp; data</b></a><br />CMDB, ROPA, DPIA</td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top"><a href="#m04"><code>04</code> <b>Resilience &amp; continuity</b></a><br />BIA, BCP, DR, RTO/RPO</td>
+    <td width="33%" valign="top"><a href="#m05"><code>05</code> <b>Grace AI &amp; workflows</b></a><br />Grace + 4 virtual agents, no-code flows</td>
+    <td width="33%" valign="top"><a href="#m06"><code>06</code> <b>Awareness &amp; phishing</b></a><br />Training, simulations</td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top"><a href="#m07"><code>07</code> <b>Dashboards &amp; insight</b></a><br />Exec briefings, KPIs</td>
+    <td width="33%" valign="top"><a href="#m08"><code>08</code> <b>Cloud security posture</b></a><br />600+ checks, drift</td>
+    <td width="33%" valign="top"><a href="#m09"><code>09</code> <b>Trust Center &amp; TPRM</b></a><br />Assurance, vendor scoring</td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top"><a href="#m10"><code>10</code> <b>Identity &amp; people</b></a><br />SSO, JML, access reviews</td>
+    <td width="33%" valign="top"><a href="#m11"><code>11</code> <b>Pen-test results</b></a><br />Scope to verified closure</td>
+    <td width="33%" valign="top"><a href="#m12"><code>12</code> <b>Incidents &amp; IR exercises</b></a><br />Playbooks, tabletops</td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top"><a href="#m13"><code>13</code> <b>Security questionnaires</b></a><br />SIG, CAIQ, AI answers</td>
+  </tr>
+</table>
 
-**Make risk decisions that stand up to scrutiny.** Assess, prioritise and treat cyber, operational, vendor and technology risk using ISO 27005 context, NIST SP 800-30 methods and quantitative FAIR analysis. Model inherent and residual exposure, define risk appetite and KRIs, link controls and owners, and turn treatment decisions into accountable remediation. The same risk record can connect to assets, services, threats, findings, evidence and regulatory requirements—giving CISOs and risk owners a defensible view of enterprise risk management.
+---
+<a id="m01"></a>
 
-| <img src="assets/icons/frameworks.svg" alt="" width="56" /> | <img src="assets/icons/requirements.svg" alt="" width="56" /> | <img src="assets/icons/baselines.svg" alt="" width="56" /> |
-| :---: | :---: | :---: |
-| **26** | **2,791** | **582** |
-| supported compliance frameworks | mapped compliance requirements | reusable control baselines |
+### `01` &nbsp;Risk, controls & compliance
 
-| **Risk assessments** | **Enterprise risk management** | **FAIR quantitative analysis** |
-| :---: | :---: | :---: |
-| <img src="assets/screenshots/Risk%20Assesments.png" alt="Risk assessments" /> | <img src="assets/screenshots/Enterprise%20Risk%20Management%20.png" alt="Enterprise risk management" /> | <img src="assets/screenshots/FAIR%20Analysis.png" alt="FAIR quantitative analysis" /> |
+**Make risk decisions that stand up to scrutiny.** Assess, prioritise and treat cyber, operational, vendor and technology risk using ISO 27005 context, NIST SP 800-30 methods and quantitative FAIR analysis. Model inherent and residual exposure, define risk appetite and KRIs, and link every risk to controls, owners, assets, findings, evidence and regulatory requirements.
 
-| **NIST risk assessments** | **Controls blast radius** | **Gap assessments** |
-| :---: | :---: | :---: |
-| <img src="assets/screenshots/Nist%20RiskAssesments.png" alt="NIST risk assessments" /> | <img src="assets/screenshots/Controls%20Blast%20Radius.png" alt="Controls blast radius" /> | <img src="assets/screenshots/Gap%20Assesments%20.png" alt="Gap assessments" /> |
+`Risk appetite & KRIs` &nbsp; `Controls blast radius` &nbsp; `MITRE ATT&CK` &nbsp; `26 frameworks`
 
-| **Compliance assurance** | **MITRE ATT&CK coverage** | **Legal & regulatory tracking** |
-| :---: | :---: | :---: |
-| <img src="assets/screenshots/Compliance%20Assurance%20.png" alt="Compliance assurance" /> | <img src="assets/screenshots/Mitre%20Coverage.png" alt="MITRE ATT&CK coverage" /> | <img src="assets/screenshots/Legal%20and%20Reguratory%20tracking%20.png" alt="Legal & regulatory tracking" /> |
+<p align="center">
+  <img src="assets/screens/controls-blast-radius.webp" alt="Controls blast radius" width="100%" />
+</p>
+<p align="center"><sub>Controls blast radius</sub></p>
+<p align="center">
+  <img src="assets/screens/fair-analysis.webp" alt="FAIR quantitative analysis" width="49%" />
+  <img src="assets/screens/mitre-coverage.webp" alt="MITRE ATT&amp;CK coverage" width="49%" />
+</p>
+<p align="center"><sub>FAIR quantitative analysis &nbsp;·&nbsp; MITRE ATT&amp;CK coverage</sub></p>
+<details>
+<summary><strong>More screens (9)</strong></summary>
+<br />
 
-| **Compliance calendar** | **ISMS document management** | **Policy & document detail** |
-| :---: | :---: | :---: |
-| <img src="assets/screenshots/Compliance%20Calendar.png" alt="Compliance calendar" /> | <img src="assets/screenshots/ISMS%20Document%20Management%20.png" alt="ISMS document management" /> | <img src="assets/screenshots/ISM%20Document%20Management%20-%20Document.png" alt="Policy & document detail" /> |
+<p align="center">
+  <img src="assets/screens/risk-assessments.webp" alt="Risk assessments" width="49%" />
+  <img src="assets/screens/enterprise-risk-management.webp" alt="Enterprise risk management" width="49%" />
+</p>
+<p align="center"><sub>Risk assessments &nbsp;·&nbsp; Enterprise risk management</sub></p>
 
-### 02 — Audit, evidence & assurance
+<p align="center">
+  <img src="assets/screens/nist-riskassessments.webp" alt="NIST risk assessments" width="49%" />
+  <img src="assets/screens/gap-assessments.webp" alt="Gap assessments" width="49%" />
+</p>
+<p align="center"><sub>NIST risk assessments &nbsp;·&nbsp; Gap assessments</sub></p>
 
-**Turn audit preparation into an operating rhythm.** Plan internal and external audits, manage audit scopes and schedules, send questionnaires, collect evidence, track observations and coordinate remediation in one audit management workspace. Grace helps reviewers analyse evidence and prepare questionnaire responses, while documented approvals, timestamps and source links preserve a clear audit trail. Teams can collect evidence once and reuse it across recurring audits, customer assurance requests and multiple compliance frameworks.
+<p align="center">
+  <img src="assets/screens/compliance-assurance.webp" alt="Compliance assurance" width="49%" />
+  <img src="assets/screens/legal-and-regulatory-tracking.webp" alt="Legal &amp; regulatory tracking" width="49%" />
+</p>
+<p align="center"><sub>Compliance assurance &nbsp;·&nbsp; Legal &amp; regulatory tracking</sub></p>
 
-| **Audit management** | **Audit scheduling** |
-| :---: | :---: |
-| <img src="assets/screenshots/Audits%20Management.png" alt="Audit management" /> | <img src="assets/screenshots/Audits%20Management%2002.png" alt="Audit scheduling" /> |
+<p align="center">
+  <img src="assets/screens/compliance-calendar.webp" alt="Compliance calendar" width="49%" />
+  <img src="assets/screens/isms-document-management.webp" alt="ISMS document management" width="49%" />
+</p>
+<p align="center"><sub>Compliance calendar &nbsp;·&nbsp; ISMS document management</sub></p>
 
-| **Audit questionnaires** | **Questionnaire responses** |
-| :---: | :---: |
-| <img src="assets/screenshots/Audit%20Questionnaire%20Management.png" alt="Audit questionnaires" /> | <img src="assets/screenshots/Audit%20Questionnaires%20Management%202.png" alt="Questionnaire responses" /> |
+<p align="center">
+  <img src="assets/screens/isms-document-management-document.webp" alt="Policy &amp; document detail" width="100%" />
+</p>
+<p align="center"><sub>Policy &amp; document detail</sub></p>
 
-### 03 — Asset, service & data intelligence
+</details>
 
-**See what you own, what it supports and what it touches.** Maintain a living CMDB-style asset and service registry with ownership, criticality, dependencies, lifecycle and business context. Pair it with data privacy management and a data registry to record processing activities, DPIAs, data subject requests and privacy responsibilities. This connected inventory makes compliance, cyber risk, service resilience and data protection decisions more accurate because every control is grounded in the systems and information it protects.
+<a id="m02"></a>
 
-| **Asset registry** | **Service catalogue** | **Service threat modelling** |
-| :---: | :---: | :---: |
-| <img src="assets/screenshots/Asset%20Registry.png" alt="Asset registry" /> | <img src="assets/screenshots/Service%20Catalogue.png" alt="Service catalogue" /> | <img src="assets/screenshots/Service%20Catalogue%20Threat%20modelling.png" alt="Service threat modelling" /> |
+### `02` &nbsp;Audit, evidence & assurance
 
-| **Data registry** | **Data privacy management** |
-| :---: | :---: |
-| <img src="assets/screenshots/Data%20Registry.png" alt="Data registry" /> | <img src="assets/screenshots/Data%20PRivacy%20Management%20.png" alt="Data privacy management" /> |
+**Turn audit preparation into an operating rhythm.** Plan internal and external audits, manage scopes and schedules, send questionnaires, collect evidence, track observations and coordinate remediation in one workspace. Collect evidence once and reuse it across recurring audits, customer assurance requests and multiple frameworks — with approvals, timestamps and source links preserving a clear audit trail.
 
-| **Records of processing (ROPA)** | **DPIA management** |
-| :---: | :---: |
-| <img src="assets/screenshots/Ropa%20Management%20.png" alt="Records of processing (ROPA)" /> | <img src="assets/screenshots/DPIA%20Management%20.png" alt="DPIA management" /> |
+<p align="center">
+  <img src="assets/screens/audits-management.webp" alt="Audit management" width="100%" />
+</p>
+<p align="center"><sub>Audit management</sub></p>
+<p align="center">
+  <img src="assets/screens/audits-management-02.webp" alt="Audit scheduling" width="49%" />
+  <img src="assets/screens/audit-questionnaire-management.webp" alt="Audit questionnaires" width="49%" />
+</p>
+<p align="center"><sub>Audit scheduling &nbsp;·&nbsp; Audit questionnaires</sub></p>
+<details>
+<summary><strong>More screens (1)</strong></summary>
+<br />
 
-### 04 — Resilience & business continuity
+<p align="center">
+  <img src="assets/screens/audit-questionnaires-management-2.webp" alt="Questionnaire responses" width="100%" />
+</p>
+<p align="center"><sub>Questionnaire responses</sub></p>
 
-**Prepare, test and improve continuity before an incident demands it.** Bring business impact analysis (BIA), business continuity planning (BCP), disaster recovery (DR), recovery priorities, RTO/RPO targets, scenario exercises and test evidence into one governed resilience programme. Link critical services, dependencies, risks and controls to the plans that protect them, so resilience leaders can prove readiness and improve recovery capability before disruption occurs.
+</details>
 
-| **BCP management** | **BCP plan** | **Recovery playbooks** |
-| :---: | :---: | :---: |
-| <img src="assets/screenshots/BCP%20MANAGEMENT.png" alt="BCP management" /> | <img src="assets/screenshots/BCP%20PLAN%20MANAGEMENT%20.png" alt="BCP plan" /> | <img src="assets/screenshots/Recovery%20Playbooks%20.png" alt="Recovery playbooks" /> |
+<a id="m03"></a>
 
-### 05 — Grace AI & workflow automation
+### `03` &nbsp;Asset, service & data intelligence
 
-**Give trust work an intelligent teammate.** Grace is Illuvia’s AI teammate for governance, risk, compliance and security operations. She can analyse control context, draft remediation plans, create and execute workflows, schedule access reviews, prepare evidence requests and surface likely audit gaps. Configurable no-code workflows orchestrate approvals, tasks, reminders, notifications and hand-offs across teams—while human owners remain responsible for decisions and sign-off.
+**See what you own, what it supports and what it touches.** A living CMDB-style asset and service registry with ownership, criticality, dependencies and business context — paired with a data registry, records of processing (ROPA), DPIAs and data subject requests. Every control is grounded in the systems and information it protects.
 
-| **Grace AI chat** | **Virtual agents** | **Workflow automation** |
-| :---: | :---: | :---: |
-| <img src="assets/screenshots/Chatbox.png" alt="Grace AI chat" /> | <img src="assets/screenshots/Virtual%20Agents%20.png" alt="Virtual agents" /> | <img src="assets/screenshots/Worflows.png" alt="Workflow automation" /> |
+<p align="center">
+  <img src="assets/screens/service-catalogue.webp" alt="Service catalogue" width="100%" />
+</p>
+<p align="center"><sub>Service catalogue</sub></p>
+<p align="center">
+  <img src="assets/screens/asset-registry.webp" alt="Asset registry" width="49%" />
+  <img src="assets/screens/service-catalogue-threat-modelling.webp" alt="Service threat modelling" width="49%" />
+</p>
+<p align="center"><sub>Asset registry &nbsp;·&nbsp; Service threat modelling</sub></p>
+<details>
+<summary><strong>More screens (4)</strong></summary>
+<br />
 
-### 06 — Security awareness & phishing
+<p align="center">
+  <img src="assets/screens/data-registry.webp" alt="Data registry" width="49%" />
+  <img src="assets/screens/data-privacy-management.webp" alt="Data privacy management" width="49%" />
+</p>
+<p align="center"><sub>Data registry &nbsp;·&nbsp; Data privacy management</sub></p>
 
-**Make security culture measurable.** Run targeted security awareness programmes and phishing simulations, monitor participation, learning progress and human-risk signals, and turn the results into focused follow-up. Security leaders can align training campaigns to policy, threat and regulatory requirements, demonstrating that awareness is an operating control—not a once-a-year checkbox exercise.
+<p align="center">
+  <img src="assets/screens/ropa-management.webp" alt="Records of processing (ROPA)" width="49%" />
+  <img src="assets/screens/dpia-management.webp" alt="DPIA management" width="49%" />
+</p>
+<p align="center"><sub>Records of processing (ROPA) &nbsp;·&nbsp; DPIA management</sub></p>
 
-| **Awareness training** | **Phishing campaigns** | **Gamification** |
-| :---: | :---: | :---: |
-| <img src="assets/screenshots/Awerness%20Trainings%20.png" alt="Awareness training" /> | <img src="assets/screenshots/Phishing%20Campaings%20.png" alt="Phishing campaigns" /> | <img src="assets/screenshots/Gamification.png" alt="Gamification" /> |
+</details>
 
-### 07 — Dashboards & executive insight
+<a id="m04"></a>
 
-**Give every stakeholder the view they need.** Build role-aware customer, executive and operational dashboards from configurable widgets for compliance progress, open audit findings, risk assessment, incidents, training, penetration-test vulnerabilities and more. Real-time metrics, trend analysis and AI-generated executive briefings transform live records into a concise, evidence-backed view of security posture, compliance health and programme performance.
+### `04` &nbsp;Resilience & business continuity
 
-| **Illuvia Intelligence** | **AI executive briefings** | **Automated compliance KPIs** |
-| :---: | :---: | :---: |
-| <img src="assets/screenshots/Illuvia%20Intelligense.png" alt="Illuvia Intelligence" /> | <img src="assets/screenshots/AI%20Executive%20Brifings%20reports%20.png" alt="AI executive briefings" /> | <img src="assets/screenshots/Automated%20Compliance%20KPIs%20.png" alt="Automated compliance KPIs" /> |
+**Prepare, test and improve continuity before an incident demands it.** Bring business impact analysis, BCP, disaster recovery, RTO/RPO targets, scenario exercises and test evidence into one governed resilience programme — linked to the critical services, dependencies, risks and controls they protect.
 
-| **Report builder** | **My Work** | **Multilanguage** |
-| :---: | :---: | :---: |
-| <img src="assets/screenshots/Report%20Builder%20.png" alt="Report builder" /> | <img src="assets/screenshots/MyWork.png" alt="My Work" /> | <img src="assets/screenshots/Multilanguage.png" alt="Multilanguage" /> |
+<p align="center">
+  <img src="assets/screens/bcp-management.webp" alt="BCP management" width="100%" />
+</p>
+<p align="center"><sub>BCP management</sub></p>
+<p align="center">
+  <img src="assets/screens/bcp-plan-management.webp" alt="BCP plan" width="49%" />
+  <img src="assets/screens/recovery-playbooks.webp" alt="Recovery playbooks" width="49%" />
+</p>
+<p align="center"><sub>BCP plan &nbsp;·&nbsp; Recovery playbooks</sub></p>
 
-### 08 — Cloud security posture management
+<a id="m05"></a>
 
-**Connect cloud posture to the controls it affects.** Continuously assess AWS, Microsoft Azure and Google Cloud environments with **600+ security checks**, baseline mapping, configuration-drift awareness and evidence promotion. Cloud security posture management (CSPM) findings become accountable remediation work, linked controls and audit-grade evidence rather than disconnected alerts—helping cloud security, DevSecOps and compliance teams work from the same posture.
+### `05` &nbsp;Grace AI & workflow automation
 
-| **Cloud security posture** |
-| :---: |
-| <img src="assets/screenshots/CSPM.png" alt="Cloud security posture" /> |
+**Give trust work an intelligent teammate.** Grace is Illuvia’s AI teammate for governance, risk, compliance and security operations. She analyses control context, drafts remediation plans, creates and executes workflows, schedules access reviews, prepares evidence requests and flags likely audit gaps. No-code workflows orchestrate approvals, tasks, reminders and hand-offs across teams.
 
-### 09 — Trust Center & third-party risk
+> **Human in the loop.** Owners stay responsible for every decision and sign-off.
 
-**Make assurance easier to share and supplier risk easier to govern.** Use a configurable Trust Center to present a clear, current and customer-friendly view of your security and compliance assurance posture. Manage third-party and vendor risk with tiering, workflows, questionnaires, documents, assessment context, security scoring and active intelligence. Supplier decisions remain connected to the wider enterprise risk programme, so teams can understand which vendors support critical services and which controls, data or obligations they affect.
+<p align="center">
+  <img src="assets/screens/chatbox.webp" alt="Grace AI chat" width="100%" />
+</p>
+<p align="center"><sub>Grace AI chat</sub></p>
 
-| **Trust Center** | **Vendor management** | **Vendor perimeter scoring** |
-| :---: | :---: | :---: |
-| <img src="assets/screenshots/Trust%20Center%20.png" alt="Trust Center" /> | <img src="assets/screenshots/Vendor%20Manegment%20.png" alt="Vendor management" /> | <img src="assets/screenshots/Vendor%20Perimeter%20Scoring%20.png" alt="Vendor perimeter scoring" /> |
+#### Four virtual agents, one per trust role
 
-### 10 — Identity, people & security validation
+Alongside Grace, Illuvia includes **four virtual agents**: a **Virtual CISO**, a **Virtual Compliance Officer**, a **Virtual Data Privacy Officer** and a **Virtual BCP Manager**. Each one has its own capabilities and runs its own business processes, so it works the way that role works. It knows its domain, tracks its own obligations and deadlines, and moves its work forward. The decisions and sign-offs stay with your team.
 
-**Keep access, workforce events and technical assurance in the same picture.** Support single sign-on (SSO) with Microsoft Entra ID (Azure AD), Okta and Google; connect HR systems to automate joiner/mover/leaver controls and user-access auditing; and manage penetration testing from scope and findings to remediation and reporting. These identity, people and technical assurance signals feed the same risk and compliance programme, making it easier to demonstrate access governance and security validation to auditors and customers.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/brand/agents-dark.svg" />
+  <img src="assets/brand/agents-light.svg" alt="Virtual CISO: security strategy, risk posture, policy oversight and board-level reporting. Virtual Compliance Officer: framework mapping, control testing, evidence collection and audit readiness. Virtual Data Privacy Officer: ROPA, DPIAs, data subject requests and GDPR accountability. Virtual BCP Manager: business impact analysis, continuity plans, RTO/RPO targets and recovery exercises." />
+</picture>
 
-| **User access review** | **Employee onboarding** | **External consultant access** |
-| :---: | :---: | :---: |
-| <img src="assets/screenshots/User%20Accounts%20review.png" alt="User access review" /> | <img src="assets/screenshots/Employee%20Onboarding%20.png" alt="Employee onboarding" /> | <img src="assets/screenshots/External%20Consultants%20Access.png" alt="External consultant access" /> |
+<details>
+<summary><strong>More screens (2)</strong></summary>
+<br />
 
-### 11 — Penetration test results management
+<p align="center">
+  <img src="assets/screens/virtual-agents.webp" alt="Virtual agents" width="49%" />
+  <img src="assets/screens/workflows.webp" alt="Workflow automation" width="49%" />
+</p>
+<p align="center"><sub>Virtual agents &nbsp;·&nbsp; Workflow automation</sub></p>
 
-**Turn penetration-testing reports into verified risk reduction.** Plan penetration tests, define scope, record engagements and securely capture findings from internal teams or external testing partners. Triage vulnerabilities by severity and business impact, assign owners, track remediation due dates and validate closure with evidence. Penetration-test results connect directly to assets, services, controls, risks and executive dashboards—so technical findings become measurable security improvement rather than a PDF that is forgotten after delivery.
+</details>
 
-| **Pen-test programme** | **Findings & remediation** |
-| :---: | :---: |
-| <img src="assets/screenshots/Pentest%20Management%20.png" alt="Pen-test programme" /> | <img src="assets/screenshots/Pentest%20MAnagement%2002%20.png" alt="Findings & remediation" /> |
+<a id="m06"></a>
 
-### 12 — Incident management, playbooks & IR exercises
+### `06` &nbsp;Security awareness & phishing
 
-**Respond with clarity when security events matter.** Coordinate incident response from detection through containment, eradication, recovery and post-incident review. Create repeatable incident response playbooks, assign tasks and escalation paths, manage communications and retain an evidence-rich timeline for regulators, auditors and leadership. Plan and record tabletop exercises and technical IR drills to test readiness, capture lessons learned and strengthen the controls, continuity plans and response procedures that protect the business.
+**Make security culture measurable.** Run targeted awareness programmes and phishing simulations, track participation, learning progress and human-risk signals, and align campaigns to policy, threat and regulatory requirements — awareness as an operating control, not a once-a-year checkbox.
 
-| **01 · Incident workspace** | **02 · Response playbook** | **03 · IR exercise** |
-| :---: | :---: | :---: |
-| `Add incident case screenshot` | `Add response playbook screenshot` | `Add tabletop exercise screenshot` |
+<p align="center">
+  <img src="assets/screens/awareness-trainings.webp" alt="Awareness training" width="100%" />
+</p>
+<p align="center"><sub>Awareness training</sub></p>
+<p align="center">
+  <img src="assets/screens/phishing-campaigns.webp" alt="Phishing campaigns" width="49%" />
+  <img src="assets/screens/gamification.webp" alt="Gamification" width="49%" />
+</p>
+<p align="center"><sub>Phishing campaigns &nbsp;·&nbsp; Gamification</sub></p>
 
-### 13 — Customer security questionnaires & AI answers
+<a id="m07"></a>
 
-**Answer customer assurance requests faster, without compromising accuracy.** Centralise customer security questionnaires, due dates, owners and supporting documents in a dedicated assurance workspace. Grace retrieves relevant, tenant-scoped evidence and policy context to draft consistent responses, while subject-matter experts review, edit and approve every answer. Reuse trusted answers across SIG, CAIQ, custom due-diligence and procurement questionnaires; retain answer history and evidence references so every response is easier to verify and faster to refresh.
+### `07` &nbsp;Dashboards & executive insight
 
-| **Public questionnaire access** |
-| :---: |
-| <img src="assets/screenshots/Questionnaire%20Public%20Access.png" alt="Public questionnaire access" /> |
+**Give every stakeholder the view they need.** Role-aware customer, executive and operational dashboards built from configurable widgets — plus real-time metrics, trend analysis and AI-generated executive briefings that turn live records into an evidence-backed view of posture and programme performance.
+
+<p align="center">
+  <img src="assets/screens/ai-executive-briefings-reports.webp" alt="AI executive briefings" width="100%" />
+</p>
+<p align="center"><sub>AI executive briefings</sub></p>
+<p align="center">
+  <img src="assets/screens/automated-compliance-kpis.webp" alt="Automated compliance KPIs" width="49%" />
+  <img src="assets/screens/report-builder.webp" alt="Report builder" width="49%" />
+</p>
+<p align="center"><sub>Automated compliance KPIs &nbsp;·&nbsp; Report builder</sub></p>
+<details>
+<summary><strong>More screens (3)</strong></summary>
+<br />
+
+<p align="center">
+  <img src="assets/screens/illuvia-intelligence.webp" alt="Illuvia Intelligence" width="49%" />
+  <img src="assets/screens/mywork.webp" alt="My Work" width="49%" />
+</p>
+<p align="center"><sub>Illuvia Intelligence &nbsp;·&nbsp; My Work</sub></p>
+
+<p align="center">
+  <img src="assets/screens/multilanguage.webp" alt="Multilanguage" width="100%" />
+</p>
+<p align="center"><sub>Multilanguage</sub></p>
+
+</details>
+
+<a id="m08"></a>
+
+### `08` &nbsp;Cloud security posture management
+
+**Connect cloud posture to the controls it affects.** Continuously assess AWS, Microsoft Azure and Google Cloud with **600+ security checks**, baseline mapping, configuration-drift awareness and evidence promotion. CSPM findings become accountable remediation work and audit-grade evidence — not disconnected alerts.
+
+<p align="center">
+  <img src="assets/screens/cspm.webp" alt="Cloud security posture" width="100%" />
+</p>
+<p align="center"><sub>Cloud security posture</sub></p>
+
+<a id="m09"></a>
+
+### `09` &nbsp;Trust Center & third-party risk
+
+**Make assurance easier to share and supplier risk easier to govern.** A configurable Trust Center presents a clear, current view of your security and compliance posture. Manage vendors with tiering, workflows, questionnaires, security scoring and active intelligence — connected to the services, controls, data and obligations they affect.
+
+<p align="center">
+  <img src="assets/screens/vendor-perimeter-scoring.webp" alt="Vendor perimeter scoring" width="100%" />
+</p>
+<p align="center"><sub>Vendor perimeter scoring</sub></p>
+<p align="center">
+  <img src="assets/screens/trust-center.webp" alt="Trust Center" width="49%" />
+  <img src="assets/screens/vendor-management.webp" alt="Vendor management" width="49%" />
+</p>
+<p align="center"><sub>Trust Center &nbsp;·&nbsp; Vendor management</sub></p>
+
+<a id="m10"></a>
+
+### `10` &nbsp;Identity, people & security validation
+
+**Keep access, workforce events and technical assurance in the same picture.** SSO with Microsoft Entra ID, Okta and Google; HR integrations that automate joiner/mover/leaver controls and user-access reviews; and external consultant access governed end to end.
+
+<p align="center">
+  <img src="assets/screens/user-accounts-review.webp" alt="User access review" width="100%" />
+</p>
+<p align="center"><sub>User access review</sub></p>
+<p align="center">
+  <img src="assets/screens/employee-onboarding.webp" alt="Employee onboarding" width="49%" />
+  <img src="assets/screens/external-consultants-access.webp" alt="External consultant access" width="49%" />
+</p>
+<p align="center"><sub>Employee onboarding &nbsp;·&nbsp; External consultant access</sub></p>
+
+<a id="m11"></a>
+
+### `11` &nbsp;Penetration test results management
+
+**Turn pen-test reports into verified risk reduction.** Plan tests, define scope and capture findings from internal teams or external partners. Triage by severity and business impact, assign owners, track due dates and validate closure with evidence — linked to assets, services, controls, risks and dashboards.
+
+<p align="center">
+  <img src="assets/screens/pentest-management.webp" alt="Pen-test programme" width="49%" />
+  <img src="assets/screens/pentest-management-02.webp" alt="Findings &amp; remediation" width="49%" />
+</p>
+<p align="center"><sub>Pen-test programme &nbsp;·&nbsp; Findings &amp; remediation</sub></p>
+
+<a id="m12"></a>
+
+### `12` &nbsp;Incident management, playbooks & IR exercises
+
+**Respond with clarity when security events matter.** Coordinate incident response from detection through containment, eradication, recovery and post-incident review. Build repeatable playbooks, assign tasks and escalation paths, and keep an evidence-rich timeline for regulators, auditors and leadership. Plan and record tabletop exercises and technical drills to capture lessons learned.
+
+
+<a id="m13"></a>
+
+### `13` &nbsp;Customer security questionnaires & AI answers
+
+**Answer customer assurance requests faster, without compromising accuracy.** Centralise questionnaires, due dates, owners and documents. Grace retrieves tenant-scoped evidence and policy context to draft consistent responses, while subject-matter experts review and approve every answer. Reuse trusted answers across SIG, CAIQ and custom due-diligence questionnaires.
+
+<p align="center">
+  <img src="assets/screens/questionnaire-public-access.webp" alt="Public questionnaire access" width="100%" />
+</p>
+<p align="center"><sub>Public questionnaire access</sub></p>
 
 ---
 
 ## Designed to connect the work
 
-Illuvia integrates with the cloud, identity, HR, DevOps, ticketing, collaboration and security services teams already use. A finding can become a risk signal; a risk can drive a workflow; a workflow can collect evidence; and that evidence can support multiple frameworks and a live assurance view.
+Illuvia integrates with the cloud, identity, HR, DevOps, ticketing, collaboration and security services teams already use. A finding becomes a risk signal; a risk drives a workflow; a workflow collects evidence; and that evidence supports multiple frameworks and a live assurance view.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/brand/flow-dark.svg" />
+  <img src="assets/brand/flow-light.svg" alt="Risk signal → accountable action → verifiable evidence → continuous trust" />
+</picture>
+
+<br />
 
 <p align="center">
-  <strong>Risk signal → accountable action → verifiable evidence → continuous trust</strong>
+  <a href="https://www.illuvia.io/"><img src="assets/brand/cta.svg" alt="Start a conversation — visit illuvia.io" width="100%" /></a>
 </p>
 
----
-
-## Start a conversation
-
-Whether you are building a pragmatic compliance programme, bringing security operations closer to governance, or creating a more transparent trust experience for customers, Illuvia is built to make the work more connected and more calm.
-
-<p align="center">
-  <a href="https://www.illuvia.io/"><strong>Visit illuvia.io →</strong></a>
-</p>
-
-<p align="center"><sub>© 2026 Illuvia. Digital trust, continuously.</sub></p>
+<p align="center"><sub>© 2026 Illuvia · Digital trust, continuously.</sub></p>
