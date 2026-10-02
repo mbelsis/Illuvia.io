@@ -64,7 +64,7 @@ A cloud misconfiguration, an overdue access review or a supplier finding doesnâ€
 
 <table>
   <tr>
-    <td width="33%" valign="top"><a href="#m01"><code>01</code> <b>Risk, controls &amp; compliance</b></a><br />ISO 27005, NIST 800-30, FAIR</td>
+    <td width="33%" valign="top"><a href="#m01"><code>01</code> <b>Risk, controls &amp; compliance</b></a><br />Committees, ISO 27005, NIST 800-30, FAIR</td>
     <td width="33%" valign="top"><a href="#m02"><code>02</code> <b>Audit, evidence &amp; assurance</b></a><br />Plan, collect once, reuse</td>
     <td width="33%" valign="top"><a href="#m03"><code>03</code> <b>Asset, service &amp; data</b></a><br />CMDB, ROPA, DPIA</td>
   </tr>
@@ -138,6 +138,26 @@ A cloud misconfiguration, an overdue access review or a supplier finding doesnâ€
   <img src="assets/screens/isms-document-management-document.webp" alt="Policy &amp; document detail" width="100%" />
 </p>
 <p align="center"><sub>Policy &amp; document detail</sub></p>
+
+</details>
+
+#### Security governance & committees
+
+**Run governance the way auditors expect to see it.** Set up security, risk and privacy committees with their domain, meeting frequency, escalation level, quorum and confidentiality. Track members, meetings, actions and decisions in one place, keep a decision register, and let Grace suggest each meeting's agenda.
+
+<p align="center">
+  <img src="assets/screens/security-committees.webp" alt="Security governance: committees, meetings, open actions and decisions" width="100%" />
+</p>
+<p align="center"><sub>Security committees</sub></p>
+
+<details>
+<summary><strong>More screens (1)</strong></summary>
+<br />
+
+<p align="center">
+  <img src="assets/screens/security-committee-detail.webp" alt="Committee details: domain, frequency, escalation level, quorum and confidentiality" width="100%" />
+</p>
+<p align="center"><sub>Committee details</sub></p>
 
 </details>
 
@@ -358,6 +378,15 @@ Alongside Grace, Illuvia includes **four virtual agents**: a **Virtual CISO**, a
 ### `12` &nbsp;Incident management, playbooks & IR exercises
 
 **Respond with clarity when security events matter.** Coordinate incident response from detection through containment, eradication, recovery and post-incident review. Build repeatable playbooks, assign tasks and escalation paths, and keep an evidence-rich timeline for regulators, auditors and leadership. Plan and record tabletop exercises and technical drills to capture lessons learned.
+
+<p align="center">
+  <img src="assets/screens/incident-management.webp" alt="Incident management: status, severity, type, mean time to resolve and the incident register" width="100%" />
+</p>
+<p align="center"><sub>Incident register</sub></p>
+<p align="center">
+  <img src="assets/screens/incident-response.webp" alt="Incident detail with containment, recovery steps and Grace-generated response plan" width="100%" />
+</p>
+<p align="center"><sub>Incident response with a Grace-generated plan</sub></p>
 
 
 <a id="m13"></a>
