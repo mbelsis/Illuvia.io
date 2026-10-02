@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.illuvia.io/"><img alt="Explore illuvia.io" src="https://img.shields.io/badge/Explore%20illuvia.io%20→-3B1C6E?style=for-the-badge" /></a>
-  <a href="#modules"><img alt="13 modules" src="https://img.shields.io/badge/13%20modules-EFEAFB?style=for-the-badge" /></a>
+  <a href="#modules"><img alt="14 modules" src="https://img.shields.io/badge/14%20modules-EFEAFB?style=for-the-badge" /></a>
   <a href="#control-graph"><img alt="Control graph" src="https://img.shields.io/badge/Control%20graph-EFEAFB?style=for-the-badge" /></a>
   <a href="https://www.illuvia.io/#integrations"><img alt="Integrations" src="https://img.shields.io/badge/Integrations-EFEAFB?style=for-the-badge" /></a>
 </p>
@@ -74,17 +74,18 @@ A cloud misconfiguration, an overdue access review or a supplier finding doesn�
     <td width="33%" valign="top"><a href="#m06"><code>06</code> <b>Awareness &amp; phishing</b></a><br />Training, simulations</td>
   </tr>
   <tr>
-    <td width="33%" valign="top"><a href="#m07"><code>07</code> <b>Dashboards &amp; insight</b></a><br />Exec briefings, KPIs</td>
-    <td width="33%" valign="top"><a href="#m08"><code>08</code> <b>Cloud security posture</b></a><br />600+ checks, drift</td>
-    <td width="33%" valign="top"><a href="#m09"><code>09</code> <b>Trust Center &amp; TPRM</b></a><br />Assurance, vendor scoring</td>
+    <td width="33%" valign="top"><a href="#m07"><code>07</code> <b>Gamification &amp; rewards</b></a><br />XP, competitions, employee of the month</td>
+    <td width="33%" valign="top"><a href="#m08"><code>08</code> <b>Dashboards &amp; insight</b></a><br />Exec briefings, KPIs</td>
+    <td width="33%" valign="top"><a href="#m09"><code>09</code> <b>Cloud security posture</b></a><br />600+ checks, drift</td>
   </tr>
   <tr>
-    <td width="33%" valign="top"><a href="#m10"><code>10</code> <b>Identity &amp; people</b></a><br />SSO, JML, access reviews</td>
-    <td width="33%" valign="top"><a href="#m11"><code>11</code> <b>Pen-test results</b></a><br />Scope to verified closure</td>
-    <td width="33%" valign="top"><a href="#m12"><code>12</code> <b>Incidents &amp; IR exercises</b></a><br />Playbooks, tabletops</td>
+    <td width="33%" valign="top"><a href="#m10"><code>10</code> <b>Trust Center &amp; TPRM</b></a><br />Assurance, vendor scoring</td>
+    <td width="33%" valign="top"><a href="#m11"><code>11</code> <b>Identity &amp; people</b></a><br />SSO, JML, access reviews</td>
+    <td width="33%" valign="top"><a href="#m12"><code>12</code> <b>Pen-test results</b></a><br />Scope to verified closure</td>
   </tr>
   <tr>
-    <td width="33%" valign="top"><a href="#m13"><code>13</code> <b>Security questionnaires</b></a><br />SIG, CAIQ, AI answers</td>
+    <td width="33%" valign="top"><a href="#m13"><code>13</code> <b>Incidents &amp; IR exercises</b></a><br />Playbooks, tabletops</td>
+    <td width="33%" valign="top"><a href="#m14"><code>14</code> <b>Security questionnaires</b></a><br />SIG, CAIQ, AI answers</td>
   </tr>
 </table>
 
@@ -281,14 +282,57 @@ Alongside Grace, Illuvia includes **four virtual agents**: a **Virtual CISO**, a
 </p>
 <p align="center"><sub>Awareness training</sub></p>
 <p align="center">
-  <img src="assets/screens/phishing-campaigns.webp" alt="Phishing campaigns" width="49%" />
-  <img src="assets/screens/gamification.webp" alt="Gamification" width="49%" />
+  <img src="assets/screens/phishing-campaigns.webp" alt="Phishing campaigns" width="100%" />
 </p>
-<p align="center"><sub>Phishing campaigns &nbsp;·&nbsp; Gamification</sub></p>
+<p align="center"><sub>Phishing campaigns</sub></p>
+
+> Awareness and phishing results feed straight into **[gamification](#m07)**: completed seminars earn XP, failed phishing tests cost it.
 
 <a id="m07"></a>
 
-### `07` &nbsp;Dashboards & executive insight
+### `07` &nbsp;Gamification & compliance rewards
+
+**Make compliance something people want to do.** Every assigned task a user completes earns XP — finishing awareness seminars, reviewing documents, collecting evidence, closing remediation actions. Failing a phishing simulation costs points. Badges, levels and a live leaderboard make progress visible, so doing the right thing on time becomes a habit rather than a chore.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="brand/gamification-dark.svg" />
+  <img src="brand/gamification-light.svg" alt="Earn XP for completed compliance tasks and awareness seminars, lose XP for failed phishing tests, spend XP on rewards, and celebrate the employees of the month" />
+</picture>
+
+<br />
+
+- **Competitions** — admins launch time-boxed challenges for teams or the whole organisation.
+- **Rewards catalogue** — admins create rewards that compliant employees buy with their XP. Approved redemptions issue a voucher the rewards desk or HR verifies at hand-over; rejected ones refund the XP.
+- **Employee of the month** — on the first day of every month, a pop-up shows every user the most compliant employees of the previous month.
+
+<p align="center">
+  <img src="assets/screens/gamification-leaderboard.webp" alt="Global leaderboard with podium, your rank, XP and badges" width="100%" />
+</p>
+<p align="center"><sub>Leaderboard &amp; your rank</sub></p>
+<p align="center">
+  <img src="assets/screens/gamification-badges.webp" alt="Earned badges such as Incident Responder, Security Champion and Compliance Guardian" width="100%" />
+</p>
+<p align="center"><sub>Badges earned for compliance work</sub></p>
+
+<details>
+<summary><strong>More screens (2)</strong></summary>
+<br />
+
+<p align="center">
+  <img src="assets/screens/gamification-rewards.webp" alt="Reward redemptions with voucher approval, fulfilment and refund" width="100%" />
+</p>
+<p align="center"><sub>Reward redemptions &amp; vouchers</sub></p>
+
+<p align="center">
+  <img src="assets/screens/gamification.webp" alt="Gamification overview" width="100%" />
+</p>
+<p align="center"><sub>Gamification overview</sub></p>
+
+</details>
+
+<a id="m08"></a>
+
+### `08` &nbsp;Dashboards & executive insight
 
 **Give every stakeholder the view they need.** Role-aware customer, executive and operational dashboards built from configurable widgets — plus real-time metrics, trend analysis and AI-generated executive briefings that turn live records into an evidence-backed view of posture and programme performance.
 
@@ -318,9 +362,9 @@ Alongside Grace, Illuvia includes **four virtual agents**: a **Virtual CISO**, a
 
 </details>
 
-<a id="m08"></a>
+<a id="m09"></a>
 
-### `08` &nbsp;Cloud security posture management
+### `09` &nbsp;Cloud security posture management
 
 **Connect cloud posture to the controls it affects.** Continuously assess AWS, Microsoft Azure and Google Cloud with **600+ security checks**, baseline mapping, configuration-drift awareness and evidence promotion. CSPM findings become accountable remediation work and audit-grade evidence — not disconnected alerts.
 
@@ -329,9 +373,9 @@ Alongside Grace, Illuvia includes **four virtual agents**: a **Virtual CISO**, a
 </p>
 <p align="center"><sub>Cloud security posture</sub></p>
 
-<a id="m09"></a>
+<a id="m10"></a>
 
-### `09` &nbsp;Trust Center & third-party risk
+### `10` &nbsp;Trust Center & third-party risk
 
 **Make assurance easier to share and supplier risk easier to govern.** A configurable Trust Center presents a clear, current view of your security and compliance posture. Manage vendors with tiering, workflows, questionnaires, security scoring and active intelligence — connected to the services, controls, data and obligations they affect.
 
@@ -345,9 +389,9 @@ Alongside Grace, Illuvia includes **four virtual agents**: a **Virtual CISO**, a
 </p>
 <p align="center"><sub>Trust Center &nbsp;·&nbsp; Vendor management</sub></p>
 
-<a id="m10"></a>
+<a id="m11"></a>
 
-### `10` &nbsp;Identity, people & security validation
+### `11` &nbsp;Identity, people & security validation
 
 **Keep access, workforce events and technical assurance in the same picture.** SSO with Microsoft Entra ID, Okta and Google; HR integrations that automate joiner/mover/leaver controls and user-access reviews; and external consultant access governed end to end.
 
@@ -361,9 +405,9 @@ Alongside Grace, Illuvia includes **four virtual agents**: a **Virtual CISO**, a
 </p>
 <p align="center"><sub>Employee onboarding &nbsp;·&nbsp; External consultant access</sub></p>
 
-<a id="m11"></a>
+<a id="m12"></a>
 
-### `11` &nbsp;Penetration test results management
+### `12` &nbsp;Penetration test results management
 
 **Turn pen-test reports into verified risk reduction.** Plan tests, define scope and capture findings from internal teams or external partners. Triage by severity and business impact, assign owners, track due dates and validate closure with evidence — linked to assets, services, controls, risks and dashboards.
 
@@ -373,9 +417,9 @@ Alongside Grace, Illuvia includes **four virtual agents**: a **Virtual CISO**, a
 </p>
 <p align="center"><sub>Pen-test programme &nbsp;·&nbsp; Findings &amp; remediation</sub></p>
 
-<a id="m12"></a>
+<a id="m13"></a>
 
-### `12` &nbsp;Incident management, playbooks & IR exercises
+### `13` &nbsp;Incident management, playbooks & IR exercises
 
 **Respond with clarity when security events matter.** Coordinate incident response from detection through containment, eradication, recovery and post-incident review. Build repeatable playbooks, assign tasks and escalation paths, and keep an evidence-rich timeline for regulators, auditors and leadership. Plan and record tabletop exercises and technical drills to capture lessons learned.
 
@@ -389,9 +433,9 @@ Alongside Grace, Illuvia includes **four virtual agents**: a **Virtual CISO**, a
 <p align="center"><sub>Incident response with a Grace-generated plan</sub></p>
 
 
-<a id="m13"></a>
+<a id="m14"></a>
 
-### `13` &nbsp;Customer security questionnaires & AI answers
+### `14` &nbsp;Customer security questionnaires & AI answers
 
 **Answer customer assurance requests faster, without compromising accuracy.** Centralise questionnaires, due dates, owners and documents. Grace retrieves tenant-scoped evidence and policy context to draft consistent responses, while subject-matter experts review and approve every answer. Reuse trusted answers across SIG, CAIQ and custom due-diligence questionnaires.
 
