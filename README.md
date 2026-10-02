@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.illuvia.io/">
-    <img src="assets/brand/hero-dark.svg" alt="Illuvia — Continuous trust. Calm operations. The AI-augmented digital trust platform." width="100%" />
+    <img src="brand/hero-dark.svg" alt="Illuvia — Continuous trust. Calm operations. The AI-augmented digital trust platform." width="100%" />
   </a>
 </p>
 
@@ -29,8 +29,8 @@
 <br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/brand/stats-dark.svg" />
-  <img src="assets/brand/stats-light.svg" alt="26 supported compliance frameworks, 2,791 mapped requirements, 582 reusable control baselines, 600+ cloud security checks across AWS, Azure and GCP" />
+  <source media="(prefers-color-scheme: dark)" srcset="brand/stats-dark.svg" />
+  <img src="brand/stats-light.svg" alt="26 supported compliance frameworks, 2,791 mapped requirements, 582 reusable control baselines, 600+ cloud security checks across AWS, Azure and GCP" />
 </picture>
 
 <br />
@@ -43,8 +43,8 @@
 <br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/brand/deploy-dark.svg" />
-  <img src="assets/brand/deploy-light.svg" alt="Run Illuvia as a secure multi-tenant SaaS platform, or deploy it privately inside your own environment and intranet" />
+  <source media="(prefers-color-scheme: dark)" srcset="brand/deploy-dark.svg" />
+  <img src="brand/deploy-light.svg" alt="Run Illuvia as a secure multi-tenant SaaS platform, or deploy it privately inside your own environment and intranet" />
 </picture>
 
 <a id="control-graph"></a>
@@ -54,8 +54,8 @@
 A cloud misconfiguration, an overdue access review or a supplier finding doesn’t stay an isolated alert: it’s **assessed as risk, owned, mapped to controls and frameworks, remediated through a workflow and kept as audit-ready evidence.**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/brand/control-graph-dark.svg" />
-  <img src="assets/brand/control-graph-light.svg" alt="Eight trust domains — risk and compliance, customer assurance, cloud CSPM, security operations, resilience, privacy and data, identity and access, vendor and third-party risk — orbiting one GRC control graph" />
+  <source media="(prefers-color-scheme: dark)" srcset="brand/control-graph-dark.svg" />
+  <img src="brand/control-graph-light.svg" alt="Eight trust domains — risk and compliance, customer assurance, cloud CSPM, security operations, resilience, privacy and data, identity and access, vendor and third-party risk — orbiting one GRC control graph" />
 </picture>
 
 <a id="modules"></a>
@@ -254,8 +254,8 @@ A cloud misconfiguration, an overdue access review or a supplier finding doesn�
 Alongside Grace, Illuvia includes **four virtual agents**: a **Virtual CISO**, a **Virtual Compliance Officer**, a **Virtual Data Privacy Officer** and a **Virtual BCP Manager**. Each one has its own capabilities and runs its own business processes, so it works the way that role works. It knows its domain, tracks its own obligations and deadlines, and moves its work forward. The decisions and sign-offs stay with your team.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/brand/agents-dark.svg" />
-  <img src="assets/brand/agents-light.svg" alt="Virtual CISO: security strategy, risk posture, policy oversight and board-level reporting. Virtual Compliance Officer: framework mapping, control testing, evidence collection and audit readiness. Virtual Data Privacy Officer: ROPA, DPIAs, data subject requests and GDPR accountability. Virtual BCP Manager: business impact analysis, continuity plans, RTO/RPO targets and recovery exercises." />
+  <source media="(prefers-color-scheme: dark)" srcset="brand/agents-dark.svg" />
+  <img src="brand/agents-light.svg" alt="Virtual CISO: security strategy, risk posture, policy oversight and board-level reporting. Virtual Compliance Officer: framework mapping, control testing, evidence collection and audit readiness. Virtual Data Privacy Officer: ROPA, DPIAs, data subject requests and GDPR accountability. Virtual BCP Manager: business impact analysis, continuity plans, RTO/RPO targets and recovery exercises." />
 </picture>
 
 <details>
@@ -407,14 +407,14 @@ Alongside Grace, Illuvia includes **four virtual agents**: a **Virtual CISO**, a
 Illuvia integrates with the cloud, identity, HR, DevOps, ticketing, collaboration and security services teams already use. A finding becomes a risk signal; a risk drives a workflow; a workflow collects evidence; and that evidence supports multiple frameworks and a live assurance view.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/brand/flow-dark.svg" />
-  <img src="assets/brand/flow-light.svg" alt="Risk signal → accountable action → verifiable evidence → continuous trust" />
+  <source media="(prefers-color-scheme: dark)" srcset="brand/flow-dark.svg" />
+  <img src="brand/flow-light.svg" alt="Risk signal → accountable action → verifiable evidence → continuous trust" />
 </picture>
 
 <br />
 
 <p align="center">
-  <a href="https://www.illuvia.io/"><img src="assets/brand/cta.svg" alt="Start a conversation — visit illuvia.io" width="100%" /></a>
+  <a href="https://www.illuvia.io/"><img src="brand/cta.svg" alt="Start a conversation — visit illuvia.io" width="100%" /></a>
 </p>
 
 <p align="center"><sub>© 2026 Illuvia · Digital trust, continuously.</sub></p>
