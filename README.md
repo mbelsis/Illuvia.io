@@ -8,6 +8,7 @@
   <a href="https://www.illuvia.io/"><img alt="Explore illuvia.io" src="https://img.shields.io/badge/Explore%20illuvia.io%20→-3B1C6E?style=for-the-badge" /></a>
   <a href="#modules"><img alt="14 modules" src="https://img.shields.io/badge/14%20modules-EFEAFB?style=for-the-badge" /></a>
   <a href="#control-graph"><img alt="Control graph" src="https://img.shields.io/badge/Control%20graph-EFEAFB?style=for-the-badge" /></a>
+  <a href="#consultancies"><img alt="For GRC consultancies" src="https://img.shields.io/badge/For%20GRC%20consultancies-EFEAFB?style=for-the-badge" /></a>
   <a href="https://www.illuvia.io/#integrations"><img alt="Integrations" src="https://img.shields.io/badge/Integrations-EFEAFB?style=for-the-badge" /></a>
 </p>
 
@@ -451,6 +452,42 @@ Alongside Grace, Illuvia includes **four virtual agents**: a **Virtual CISO**, a
   <img src="assets/screens/questionnaire-public-access.webp" alt="Public questionnaire access" width="100%" />
 </p>
 <p align="center"><sub>Public questionnaire access</sub></p>
+
+---
+
+<a id="consultancies"></a>
+
+## Built for GRC consultancies
+
+**Grow your practice on Illuvia.** Consultancy firms register their own consultancy portal, invite their customers, and run each customer’s full GRC programme from one place — risks, controls, audits, evidence, policies and remediation. Every customer you bring earns your firm a **recurring share of what that customer spends on the platform.**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="brand/consultancy-dark.svg" />
+  <img src="brand/consultancy-light.svg" alt="For GRC consultancies: register your firm, invite your customers, run their GRC programme, and earn a revenue share" />
+</picture>
+
+<br />
+
+- **Consultancy portal** — a dedicated administration portal for your firm, secured with email verification and one-time login codes.
+- **Team & assignments** — manage your consultants, handle client access requests and see every active client assignment.
+- **Referral codes & invitations** — invite customers by email or share referral codes, and track which clients came through your firm.
+- **Revenue sharing** — commission tiers grow with your number of active clients and their tenure, with client tracking, commission history and payouts built in.
+
+<p align="center">
+  <img src="assets/screens/consultancy-revenue-sharing.webp" alt="Consultancy management: referrals, active clients, earnings and commission tiers" width="100%" />
+</p>
+<p align="center"><sub>Revenue sharing &amp; commission tiers</sub></p>
+
+<details>
+<summary><strong>More screens (1)</strong></summary>
+<br />
+
+<p align="center">
+  <img src="assets/screens/consultancy-login.webp" alt="Consultancy portal administrator sign-in" width="100%" />
+</p>
+<p align="center"><sub>Consultancy portal sign-in</sub></p>
+
+</details>
 
 ---
 
