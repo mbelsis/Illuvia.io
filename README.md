@@ -15,6 +15,7 @@
   <img alt="Frameworks: ISO 27001 · SOC 2 · NIST CSF" src="https://img.shields.io/badge/FRAMEWORKS-ISO%2027001%20·%20SOC%202%20·%20NIST%20CSF-5B3CC4?labelColor=27364B" />
   <img alt="Deploy: SaaS · Private" src="https://img.shields.io/badge/DEPLOY-SaaS%20·%20Private-17705F?labelColor=27364B" />
   <img alt="AI: Grace + 4 virtual agents" src="https://img.shields.io/badge/AI-Grace%20+%204%20virtual%20agents-3B1C6E?labelColor=27364B" />
+  <img alt="Languages: EN · EL · DE · FR · IT · ES" src="https://img.shields.io/badge/LANGUAGES-EN%20·%20EL%20·%20DE%20·%20FR%20·%20IT%20·%20ES-1D8A78?labelColor=27364B" />
 </p>
 
 <br />
@@ -45,6 +46,13 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="brand/deploy-dark.svg" />
   <img src="brand/deploy-light.svg" alt="Run Illuvia as a secure multi-tenant SaaS platform, or deploy it privately inside your own environment and intranet" />
+</picture>
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="brand/languages-dark.svg" />
+  <img src="brand/languages-light.svg" alt="Interface available in English, Greek (Ελληνικά), German (Deutsch), French (Français), Italian (Italiano) and Spanish (Español)" />
 </picture>
 
 <a id="control-graph"></a>
@@ -334,7 +342,7 @@ Alongside Grace, Illuvia includes **four virtual agents**: a **Virtual CISO**, a
 
 ### `08` &nbsp;Dashboards & executive insight
 
-**Give every stakeholder the view they need.** Role-aware customer, executive and operational dashboards built from configurable widgets — plus real-time metrics, trend analysis and AI-generated executive briefings that turn live records into an evidence-backed view of posture and programme performance.
+**Give every stakeholder the view they need.** Role-aware customer, executive and operational dashboards built from configurable widgets — plus real-time metrics, trend analysis and AI-generated executive briefings that turn live records into an evidence-backed view of posture and programme performance. The entire interface is available in **English, Greek, German, French, Italian and Spanish**, so each user works in their own language.
 
 <p align="center">
   <img src="assets/screens/ai-executive-briefings-reports.webp" alt="AI executive briefings" width="100%" />
@@ -356,9 +364,9 @@ Alongside Grace, Illuvia includes **four virtual agents**: a **Virtual CISO**, a
 <p align="center"><sub>Illuvia Intelligence &nbsp;·&nbsp; My Work</sub></p>
 
 <p align="center">
-  <img src="assets/screens/multilanguage.webp" alt="Multilanguage" width="100%" />
+  <img src="assets/screens/multilanguage.webp" alt="Illuvia interface shown in another language" width="100%" />
 </p>
-<p align="center"><sub>Multilanguage</sub></p>
+<p align="center"><sub>Multilingual interface — EN · EL · DE · FR · IT · ES</sub></p>
 
 </details>
 
