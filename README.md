@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.illuvia.io/">
-    <img src="brand/hero-dark.svg" alt="Illuvia — Continuous trust. Calm operations. The AI-augmented digital trust platform." width="100%" />
+    <img src="brand/hero.png" alt="Illuvia — Continuous trust. Calm operations. The AI-augmented digital trust platform." width="100%" />
   </a>
 </p>
 
